@@ -1,4 +1,14 @@
-nav: 
-- Home: index.md
-- Accessing RC Resources:
-    - Logging in: docs/loggingin
+.. toctree::
+   :maxdepth: 2
+   :caption: User Documentation
+
+   getting_started
+   versions
+   builds
+   features
+   support
+   faq
+   yaml-config
+   guides/index
+   api/index
+   embed
