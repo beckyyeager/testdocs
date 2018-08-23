@@ -1,14 +1,5 @@
-.. toctree::
-   :maxdepth: 2
-   :caption: User Documentation
+##Table of Contents
 
-   getting_started
-   versions
-   builds
-   features
-   support
-   faq
-   yaml-config
-   guides/index
-   api/index
-   embed
+-[Allocations]
+-[Blanca Access]
+-[Duo Access for CU Users]
