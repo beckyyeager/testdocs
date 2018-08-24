@@ -1,4 +1,4 @@
 ## Accessing RC Resources ##
-* [Logging In] (Documentation/Logging-In)
-* [Duo Access for CU Users] (Documentation/Duo-Access-for-CU-Users)
+* [Logging In] (Logging-In)
+* [Duo Access for CU Users] (Duo-Access-for-CU-Users)
 
