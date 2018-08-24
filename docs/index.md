@@ -1,5 +1,3 @@
-nav:
-    - Home: index.md
-    - Accessing RC Resources
-        - Allocations: docs/allocations.md
- 
+## Accessing RC Resources ##
+* [Logging In] (/Logging In)
+* [Duo Access for CU Users] (/Duo Access for CU Users)
