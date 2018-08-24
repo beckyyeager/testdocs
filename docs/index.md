@@ -1,4 +1,4 @@
 ## Accessing RC Resources ##
-* [Logging In] (Logging-in)
-* [Duo Access for CU Users] (Duo-Access-for-CU-Users)
+* [Logging In] (https://github.com/beckyyeager/testdocs/blob/master/docs/Documentation/Logging-in.md)
+* [Duo Access for CU Users] (https://github.com/beckyyeager/testdocs/blob/master/docs/Documentation/Duo-Access-for-CU-Users.md)
 
